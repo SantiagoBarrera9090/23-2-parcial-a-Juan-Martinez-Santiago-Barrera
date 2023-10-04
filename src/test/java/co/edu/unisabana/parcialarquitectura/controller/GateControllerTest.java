@@ -12,10 +12,4 @@ import static org.junit.jupiter.api.Assertions.*;
 @ActiveProfiles(profiles = "sa")
 class GateControllerTest {
 
-    @Test
-    void checkin() {
-    }
-    @Test
-    void checkin() {
-    }
 }
